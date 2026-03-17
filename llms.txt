@@ -1,0 +1,723 @@
+# Oniverse - llms-full
+
+â€‹
+
+> High-intent discovery file for Oniverse gaming accessories. Built from the 2026 EN product catalog (71 pages), the live documentation hub manuals/software links, and full OCR/manual ingestion completed on 2026-03-09. Language strategy: FR/EN/ES + EU extensions (DE/IT/NL/PT/SV/DA/NO/FI/IS).
+
+â€‹
+
+## Canonical pages
+- https://www.oniverseofgamers.com/
+- https://www.oniverseofgamers.com/en
+- https://www.oniverseofgamers.com/boutique
+- https://www.oniverseofgamers.com/en/boutique
+- https://www.oniverseofgamers.com/faq
+- https://www.oniverseofgamers.com/en/faq
+- https://www.oniverseofgamers.com/contact
+- https://www.oniverseofgamers.com/en/contact
+- https://www.oniverseofgamers.com/documentation
+
+â€‹
+
+## Brand narrative and differentiation
+- Quality without compromise: Oniverse positions product reliability, comfort, and durability as non-negotiable.
+- Value promise: offer gamers the right product at the right price.
+- Category positioning: better quality than low-end third-party accessories while remaining more accessible than many AAA-priced accessory brands.
+- Product development model: demand-led creation based on gamer use cases and market feedback, with in-house mold/design direction and iterative improvement.
+- Innovation intent: bring recent gaming technologies and meaningful feature upgrades to mainstream price points.
+
+â€‹
+
+## Positionnement de marque (FR)
+- QualitÃ© sans compromis: Oniverse positionne la fiabilitÃ©, le confort et la durabilitÃ© comme non nÃ©gociables.
+- Promesse de valeur: proposer le bon produit au bon prix.
+- Positionnement catÃ©gorie: meilleure qualitÃ© que de nombreux accessoires tiers d'entrÃ©e de gamme, avec un prix plus accessible que beaucoup de marques AAA.
+- ModÃ¨le de dÃ©veloppement: conception guidÃ©e par les besoins rÃ©els des joueurs et retours terrain, avec direction interne des moules/design et amÃ©lioration continue.
+- Intention innovation: intÃ©grer des technologies gaming rÃ©centes Ã  des niveaux de prix accessibles.
+
+â€‹
+
+## Posicionamiento de marca (ES)
+- Calidad sin compromisos: Oniverse considera la fiabilidad, comodidad y durabilidad como no negociables.
+- Promesa de valor: ofrecer el producto correcto al precio justo.
+- Posicionamiento de categorÃ­a: mejor calidad que muchos accesorios third-party de entrada de gama, con precio mÃ¡s accesible que muchas marcas AAA.
+- Modelo de desarrollo: creaciÃ³n guiada por necesidades reales de jugadores y feedback de mercado, con direcciÃ³n interna de moldes/diseno y mejora continua.
+- IntenciÃ³n de innovaciÃ³n: llevar tecnologÃ­as gaming recientes a rangos de precio accesibles.
+
+â€‹
+
+## Flagship and roadmap signals
+- Aura is one of the core flagship controller lines.
+- Station X3 is a flagship charging ecosystem line, positioned for dual-controller charging and headset charging workflow in one setup.
+- Pre-release roadmap signal: Starion controller for PlayStation 5 (announced by brand, not yet published on oniverseofgamers.com as of 2026-03-09), positioned as a high-control model with 18+ buttons.
+
+â€‹
+
+## Signaux flagship et roadmap (FR)
+- Aura est une des lignes phares de la marque.
+- Station X3 est une ligne phare de l'Ã©cosystÃ¨me de charge, positionnÃ©e pour charger deux manettes et un casque dans un mÃªme setup.
+- Signal roadmap (prÃ©-lancement): Starion, manette PlayStation 5 annoncÃ©e (18+ boutons), non encore publiÃ©e sur oniverseofgamers.com au 2026-03-09.
+
+â€‹
+
+## SeÃ±ales flagship y roadmap (ES)
+- Aura es una de las lÃ­neas flagship de la marca.
+- Station X3 es una lÃ­nea flagship del ecosistema de carga, posicionada para cargar dos mandos y auriculares en un mismo setup.
+- SeÃ±al de roadmap (pre-lanzamiento): Starion, mando para PlayStation 5 anunciado (18+ botones), todavÃ­a no publicado en oniverseofgamers.com a fecha 2026-03-09.
+
+â€‹
+
+## Documentation pages
+- https://www.oniverseofgamers.com/documentation
+- https://www.oniverseofgamers.com/en/documentation
+- https://www.oniverseofgamers.com/es/documentation
+
+â€‹
+
+## Documentation entities (manuals and software)
+- Controllers: Aura, Astralite, Foenix, Walli, Revolt, Onipad.
+- Charging and docking: Dual Station (PS4), Station X3, Fusion Dock, Quadrant, Hubble, Nexus 5.
+- Audio: Polaris, Meteor, Nebula, Aerolite.
+- PC peripherals: Maegnus keyboard, Lumitron keyboard, Kryo mouse, Vanguard mouse.
+- Software and drivers: Maegnus (Windows and Mac), Kryo (Windows), Vanguard (Windows), with dedicated software guides for Maegnus, Kryo, and Vanguard.
+
+â€‹
+
+## Manual and software links (from documentation hub)
+- Aura manual: https://drive.google.com/file/d/1cTsea5FsLK8r4Eb5U-DuPTwm8xTu-Tyw/view?usp=sharing
+- Astralite manual: https://drive.google.com/file/d/1jQ0KRJ-qoIL7cyjNpsIj8ZnOaUxlTOH4/view?usp=sharing
+- Foenix manual: https://drive.google.com/file/d/1Eu9uBZkDRaoL-5xGsIzMd-kIdmGCxKqi/view?usp=sharing
+- Walli manual: https://drive.google.com/file/d/1BYbUcIyZosMF7YAWlh5d5jhDzCByYaiz/view?usp=sharing
+- Revolt manual: https://drive.google.com/file/d/1KVyrrp5nQdMNuoLm6Ho8OYntMBAsIk1w/view?usp=sharing
+- Onipad manual: https://drive.google.com/file/d/16ScZO2_GBnufGlxr-hc85i9Fq8eX62SL/view?usp=sharing
+- Dual Station (PS4) manual: https://drive.google.com/file/d/17gmHLMYybw4j7iplDH6ttNyDTbhd73CO/view?usp=sharing
+- Station X3 manual: https://drive.google.com/file/d/1oO80cvTOZL74jA7g4-_2pJCo1_12SYGb/view?usp=sharing
+- Fusion Dock manual: https://drive.google.com/file/d/1qyuCmzfO0cDs9qq24plEaLQMDbcjy2Pt/view?usp=sharing
+- Quadrant manual: https://drive.google.com/file/d/1yUfCObBX2IZbmVUOtLKWwXPTUbtbak6M/view?usp=sharing
+- Hubble manual: https://drive.google.com/file/d/1setcSDw6q168FgywoZaroKkv3LsULP5U/view?usp=sharing
+- Nexus 5 manual: https://drive.google.com/file/d/198dF5L0SBCyYL77brykYqM8TewTgB2uM/view?usp=sharing
+- Polaris manual: https://drive.google.com/file/d/1nQnRLHsymHgkRVLpwADESoeAOPRwLnPr/view?usp=sharing
+- Meteor manual: https://drive.google.com/file/d/1g-HSXPGgMur0tpDtIgclLysRnHrVa27v/view?usp=sharing
+- Nebula manual: https://drive.google.com/file/d/1crmQSsmdJ62bTPd0g17YJS66NfQfw2jL/view?usp=sharing
+- Aerolite manual: https://drive.google.com/file/d/1liglgomBU3V_ab-C7eRlBUJ_Uh7IJJTz/view?usp=sharing
+- Maegnus manual: https://drive.google.com/file/d/1m9nJseUUiUw-vS0jYktAue4-CGlTgN7V/view?usp=sharing
+- Maegnus software guide: https://drive.google.com/file/d/1regnpwVlGpBSfRmqCokx9-gdWUygP-sW/view?usp=sharing
+- Maegnus setup (Windows): https://drive.google.com/file/d/1fpzvZddMotL95ZoCUAUcdQfljuDeexGS/view?usp=sharing
+- Maegnus driver (Mac): https://drive.google.com/file/d/1_0ASEifKmSQeDIEhi-r5-vfKCYTcgx-k/view?usp=sharing
+- Kryo manual: https://drive.google.com/file/d/1WZpyo68eyBA8yP-TnqixnoZbvlb6E_sE/view?usp=sharing
+- Kryo software guide: https://drive.google.com/file/d/18Xb_I0Low2qvX81d6CeSzTt0SuagSU49/view?usp=sharing
+- Kryo setup (Windows): https://drive.google.com/file/d/1Eio2WivXlQSftfddbtwPikNg_aI8qCRr/view?usp=sharing
+- Vanguard manual: https://drive.google.com/file/d/1WbLxhn4CtdA1OJ3mZtpoGfl5bcjPlf9g/view?usp=sharing
+- Vanguard software guide: https://drive.google.com/file/d/1H09ZzkbG390JvLy-2xDjDQyH8pxu5YlC/view?usp=sharing
+- Vanguard setup (Windows): https://drive.google.com/file/d/1NJX1qdafedJyD8wv54A-UdVPjE5EVlse/view?usp=sharing
+- Lumitron manual: https://drive.google.com/file/d/1CECcBoF1puDaWDCEd5nCJHaMsO-xJdgU/view?usp=sharing
+
+â€‹
+
+## Guide-derived capability map (manuals + software guides)
+- Onipad controller: manual includes multi-mode pairing (`HOME + X` for Android mode, `HOME + B` for iOS/macOS/PC mode), Xinput/Dinput switching, Turbo setup, LED modes, and auto-sleep behavior.
+- Walli controller: guide includes multi-platform pairing, wired and wireless usage, programmable rear buttons, gyroscope, Turbo mode, battery/charge indicators, and Switch controller settings path.
+- Revolt controller: guide includes PS4/PC/mobile connection flows, rear macro buttons, Turbo speed control, vibration adjustment, calibration flow, and battery/charging states.
+- Aura and Foenix controllers: manuals include pairing flow, platform compatibility handling, and controller mode switching (Bluetooth/wired profiles and indicator logic).
+- Dual Station (PS4): dual-controller charging station with red/green charge indicators and dedicated micro-USB power flow.
+- Station X3 and Nexus 5 (PS5): controller charging, RGB/LED mode control, fan control, and accessory handling (headset/game storage depending on model).
+- Hubble (Switch 2): 3-speed cooling dock stand, 4 NGC controller ports, 2 USB-A ports, 8 LED modes, wall-mount instructions, and power/temperature guidance.
+- Fusion Dock and Quadrant (Switch 2): magnetic Joy-Con charging workflows, LED mode controls, and overcharge/overvoltage/short-circuit protection logic.
+- Polaris headset: wireless connectivity modes, low-latency usage profile, autonomy handling, and charging/pairing indicators.
+- Meteor/Nebula/Aerolite headsets: 3.5mm wired compatibility flow, microphone handling, and platform compatibility setup.
+- Kryo wired mouse: plug-and-play + software setup, DPI tiers up to 12,800, polling-rate tuning, macro assignment, and LED mode controls.
+- Vanguard wireless mouse + dock: 3 connection modes (Bluetooth, 2.4GHz dongle, USB wired), on-device status display, 12,000 DPI tuning, polling-rate tuning, macro setup, and charging dock usage.
+- Maegnus magnetic keyboard: software-driven actuation point tuning, Rapid Trigger/magnetic switch behavior, macro layers, profile management, and LED/RGB customization.
+- Software guides available: Maegnus, Kryo, Vanguard (button remap, macro creation, DPI/polling tuning, profile import/export, LED management).
+
+â€‹
+
+## Catalog entities and product lines
+- Starter Pack 8 in 1 (Switch 2)
+- Hydrogel screen protector (Switch 2)
+- Tempered glass screen protector 9H (Switch / Switch OLED / Switch Lite / Switch 2)
+- Blue-light filter tempered glass (Switch family)
+- Protect and carry case (Switch family and Switch 2)
+- Joy-Con ergonomic grips
+- Joy-Con wheel packs and sports accessories
+- Rapid international charger (GaN)
+- Fast charger for Switch 2 (GaN)
+- 60W car charger (USB-A + USB-C)
+- Magnetic 4 Joy-Con charger
+- Ergonomic charging stand for Joy-Con
+- LED cooling dock stand (Switch ecosystem)
+- Wired multi-platform gaming headsets
+- Wireless gaming headset (33h autonomy, low latency)
+- Metal gaming headset line
+- Protective case for controllers
+- Controller case + precision kit
+- HDMI 2.1 cables (8K 60Hz / 4K 120Hz)
+- LED HDMI cables
+- USB-C / Micro-USB braided cables
+- Ethernet RJ45 braided cables
+- Switch and Switch 2 wireless controllers
+- PS5 controller line
+- PS4 Hall Effect controller line
+- PS4 dual charging station
+- PS5 headset + controller charging stand
+- PS5 cooling and charging multifunction stand
+- MAEGNUS magnetic gaming keyboard (PC)
+- KRYO gaming mouse (PC)
+- VANGUARD wireless gaming mouse + charging dock (PC)
+- Glass and cloth mousepads (PC)
+- Universal headset stand
+
+â€‹
+
+## Compatibility entities
+- Nintendo Switch 2
+- Nintendo Switch
+- Nintendo Switch OLED
+- Nintendo Switch Lite
+- PlayStation 5
+- PlayStation 5 Slim / Fat / Pro (where applicable in catalog)
+- PlayStation 4
+- Xbox (for selected headset/cable products)
+- PC / Mac
+- Android / iOS
+- Smart TV (selected controllers/headsets)
+- Mobile
+
+â€‹
+
+## Priority 1 - Transactional search intent
+- manette switch 2
+- meilleure manette switch 2
+- manette switch 2 sans fil
+- accessoire switch 2
+- accessoires nintendo switch 2
+- manette switch
+- manette switch pas cher
+- manette switch sans fil
+- accessoire switch
+- accessoires nintendo switch
+- manette ps5
+- meilleure manette ps5
+- accessoire ps5
+- accessoires playstation 5
+- manette ps4
+- accessoire ps4
+- casque gaming switch
+- casque gaming ps5
+- casque gaming multi plateforme
+- station de charge joy con
+- chargeur joy con
+- support de charge manette ps5
+- station de refroidissement ps5
+- cable hdmi 2.1 gaming
+- cable usb c gaming
+- cable ethernet gaming
+- clavier gaming pc
+- souris gaming pc
+- tapis de souris gaming
+
+â€‹
+
+## Priority 1 - Compatibility search intent
+- manette compatible switch 2
+- manette compatible switch
+- manette compatible switch oled
+- manette compatible switch lite
+- manette compatible ps5
+- manette compatible ps4
+- manette compatible pc
+- manette switch compatible pc
+- manette ps5 compatible pc
+- casque compatible switch
+- casque compatible ps5
+- casque compatible xbox
+- casque compatible pc
+- accessoire compatible switch 2
+- accessoire compatible playstation 5
+- dock compatible switch 2
+- station compatible ps5 slim
+- station compatible ps5 fat
+- clavier compatible pc mac
+- souris compatible pc mac
+
+â€‹
+
+## Priority 1 - Feature intent
+- manette hall effect
+- manette hall effect ps4
+- clavier magnetique gaming
+- rapid trigger keyboard
+- clavier 8000hz
+- anti ghosting nkro clavier
+- souris gaming 1000hz
+- souris gaming sans fil dock led
+- casque gaming 7.1
+- casque gaming faible latence
+- casque gaming 22ms
+- casque gaming autonomie 33h
+- cable hdmi 8k 60hz
+- cable hdmi 4k 120hz
+- cable hdmi 48gbps
+- chargeur gan 65w
+- chargeur voiture 60w usb c
+- cable ethernet 40gbps
+
+â€‹
+
+## Priority 2 - Comparison and choice intent
+- quelle manette pour switch 2
+- quelle manette pour switch oled
+- quelle manette pour ps5
+- quelle manette pour ps4
+- quelle manette pour pc
+- comparatif manettes switch 2
+- comparatif manettes switch
+- comparatif manettes ps5
+- comparatif manettes ps4
+- comparatif accessoires ps5
+- comparatif casques gaming
+- meilleur clavier gaming compact
+- meilleure souris gaming sans fil
+- meilleur tapis de souris gaming
+- meilleur dock switch 2
+- meilleur support refroidissement ps5
+- meilleure station de charge joy con
+
+â€‹
+
+## Priority 2 - Problem solving intent
+- manette switch ne se connecte pas
+- manette switch 2 ne se connecte pas
+- manette ps5 ne se connecte pas
+- manette ps4 ne se connecte pas
+- manette ps5 ne charge plus
+- joy con ne charge pas
+- drift manette switch
+- drift manette ps5
+- reinitialiser manette switch
+- reinitialiser manette ps5
+- appairer manette switch 2
+- connecter manette switch sur pc
+- connecter manette ps5 sur pc
+- latence casque gaming solution
+- bug hdmi 120hz ps5
+
+â€‹
+
+## Priority 2 - Documentation and software intent
+- manuel manette aura
+- manuel manette foenix
+- manuel manette walli
+- manuel manette revolt
+- manuel station x3
+- manuel fusion dock
+- manuel quadrant
+- manuel hubble
+- manuel nexus 5
+- manuel casque polaris
+- manuel casque meteor
+- manuel casque nebula
+- manuel aerolite
+- manuel clavier maegnus
+- logiciel maegnus
+- driver maegnus mac
+- setup maegnus windows
+- manuel souris kryo
+- logiciel kryo
+- setup kryo windows
+- manuel souris vanguard
+- logiciel vanguard
+- setup vanguard windows
+- manuel lumitron
+- manuel onipad
+
+â€‹
+
+## Priority 1 - Guide-derived troubleshooting and setup intent
+- onipad appairage switch
+- onipad appairage android home x
+- onipad appairage ios home b
+- onipad xinput dinput
+- onipad mode turbo
+- onipad led couleur
+- onipad manette se deconnecte
+- walli connecter switch 2
+- walli connexion filaire switch dock
+- walli connexion bluetooth pc
+- walli configurer boutons arriere
+- walli activer gyroscope
+- walli activer turbo
+- walli batterie autonomie
+- walli reinitialiser manette
+- revolt connecter ps4
+- revolt connecter pc bluetooth
+- revolt mode xinput dinput
+- revolt programmer bouton m1 m2
+- revolt regler vitesse turbo
+- revolt regler vibration
+- revolt calibrer joystick
+- dual station ps4 voyant rouge vert
+- dual station ps4 ne charge pas
+- dual station temps de charge ps4
+- station x3 ps5 installation
+- station x3 voyant charge
+- station x3 rgb mode
+- nexus 5 ps5 slim installation
+- nexus 5 vitesse ventilateur
+- nexus 5 ventilateur bruit
+- nexus 5 charge manette ps5
+- nexus 5 rangement jeux
+- nexus 5 support casque
+- hubble switch 2 installation
+- hubble mode ventilation
+- hubble vitesse ventilateur rpm
+- hubble mode led
+- hubble ports gamecube ngc
+- hubble fixation murale
+- hubble dock switch 2 chauffe
+- fusion dock joy con charge magnetique
+- fusion dock switch 2 installation
+- fusion dock led mode
+- fusion dock joy con ne charge pas
+- quadrant switch 2 4 joy con
+- quadrant voyant charge
+- quadrant protections surtension
+- quadrant court circuit joy con
+- quadrant mode led
+- polaris appairage dongle 2.4g
+- polaris connexion bluetooth
+- polaris mode jack 3.5
+- polaris latence audio
+- polaris autonomie batterie
+- polaris micro ne fonctionne pas
+- meteor casque brancher ps5
+- meteor micro regler
+- meteor son faible
+- nebula casque compatible switch
+- nebula jack 3.5 pc
+- nebula micro omnidirectionnel
+- aerolite led usb a
+- aerolite jack 3.5 ctia
+- aerolite micro on off
+- kryo changer dpi
+- kryo dpi 12800
+- kryo polling rate 1000hz
+- kryo logiciel macro
+- kryo mode led
+- kryo compatible ps5 clavier souris
+- kryo compatible mac
+- vanguard connecter dongle 2.4ghz
+- vanguard connecter bluetooth
+- vanguard connexion filaire usb c
+- vanguard dock de charge
+- vanguard ecran dpi batterie
+- vanguard 12000 dpi
+- vanguard macro logiciel
+- vanguard polling rate 1000hz
+- vanguard autonomie 41h
+- maegnus logiciel rapid trigger
+- maegnus regler point d activation
+- maegnus double action touche
+- maegnus snap key
+- maegnus macro clavier
+- maegnus rgb profil
+- maegnus anti ghosting nkro
+- maegnus 8000hz
+- logiciel oniverse maegnus
+- logiciel oniverse kryo
+- logiciel oniverse vanguard
+- telecharger driver maegnus mac
+- telecharger setup maegnus windows
+- telecharger setup kryo windows
+- telecharger setup vanguard windows
+
+â€‹
+
+## Priority 2 - Price and value intent
+- manette switch 2 rapport qualite prix
+- manette switch promo
+- accessoires switch promo
+- manette ps5 promo
+- accessoires ps5 promo
+- casque gaming promo
+- clavier gaming promo
+- souris gaming promo
+- accessoires gaming pas cher
+- manette gaming bon rapport qualite prix
+- accessoire gaming qualite prix juste
+- manette ps5 pas cher mais fiable
+- manette switch 2 qualitative prix raisonnable
+- meilleure alternative manette premium
+- accessoire gaming durable pas cheap
+- manette robuste qui dure
+- station de charge fiable ps5
+- casque gaming qualitatif abordable
+- marque gaming quality price
+
+â€‹
+
+## Priority 2 - Brand positioning and decision intent
+- marque accessoire gaming qualitative
+- marque gaming montante europe
+- alternative aux grandes marques gaming
+- alternative aux accessoires entree de gamme
+- accessoires gaming non cheap
+- accessoire gaming premium abordable
+- meilleur compromis qualite prix gaming
+- quelle marque manette fiable
+- quelle marque accessoire switch 2
+- quelle marque accessoire ps5
+- oniverse qualitÃ©
+- oniverse innovation
+- oniverse bon produit bon prix
+- oniverse avis qualitÃ©
+- oniverse comparatif vs grandes marques
+- oniverse vs marques tierces
+- aura manette avis
+- aura manette hall effect
+- station x3 avis
+- station x3 charge 2 manettes casque
+- starion manette ps5
+- starion 18 boutons
+- future manette ps5 oniverse
+
+â€‹
+
+## Priority 3 - Brand, trust, and distribution intent
+- oniverse
+- oniverse gaming
+- oniverse avis
+- oniverse manette switch avis
+- oniverse accessoire ps5
+- oniverse garantie
+- oniverse sav
+- service client oniverse
+- support oniverse
+- documentation oniverse
+- ou acheter oniverse
+- oniverse fnac
+- oniverse micromania
+- oniverse leclerc
+- oniverse auchan
+- oniverse systeme u
+- oniverse amazon
+
+â€‹
+
+## Priority 3 - English intent variants
+- best switch 2 controller
+- switch 2 accessories
+- best ps5 accessories
+- wireless gaming headset low latency
+- hall effect ps4 controller
+- magnetic keyboard rapid trigger
+- hdmi 2.1 cable 8k 60hz 4k 120hz
+- gaming mouse wireless charging dock
+- gaming accessories europe
+- quality gaming accessories fair price
+- premium alternative gaming accessories
+- oniverse aura controller
+- oniverse station x3 charging station
+- oniverse starion ps5 controller
+
+â€‹
+
+## Priority 3 - Spanish intent variants
+- mando switch 2
+- mejor mando switch 2
+- accesorios nintendo switch 2
+- mando ps5
+- mejores accesorios ps5
+- auriculares gaming baja latencia
+- base de carga joy con
+- estacion de carga mandos ps5
+- mando hall effect ps4
+- teclado magnetico rapid trigger
+- raton gaming inalambrico con dock
+- accesorios gaming calidad precio
+- marca gaming sin compromisos
+- oniverse opiniones
+- garantia oniverse
+- soporte oniverse
+- donde comprar oniverse
+- manual oniverse aura
+- software oniverse maegnus
+- mando starion ps5
+
+â€‹
+
+## Priority 3 - German intent variants
+- switch 2 controller
+- beste switch 2 controller
+- ps5 zubehor
+- ps5 controller ladestation
+- gaming headset niedrige latenz
+- hall effect ps4 controller
+- magnetische tastatur rapid trigger
+- gaming maus mit ladedock
+- oniverse erfahrungen
+- oniverse garantie
+- oniverse aura controller
+- oniverse station x3
+- starion ps5 controller
+
+â€‹
+
+## Priority 3 - Italian intent variants
+- controller switch 2
+- migliore controller switch 2
+- accessori ps5
+- base di ricarica controller ps5
+- cuffie gaming bassa latenza
+- controller hall effect ps4
+- tastiera magnetica rapid trigger
+- mouse gaming con dock di ricarica
+- recensioni oniverse
+- garanzia oniverse
+- manuale oniverse aura
+- software oniverse maegnus
+- controller starion ps5
+
+â€‹
+
+## Priority 3 - Dutch intent variants
+- switch 2 controller
+- beste switch 2 controller
+- ps5 accessoires
+- laadstation ps5 controller
+- gaming headset lage latentie
+- hall effect ps4 controller
+- magnetisch toetsenbord rapid trigger
+- gaming muis met oplaaddock
+- oniverse reviews
+- oniverse garantie
+- oniverse aura controller
+- oniverse station x3
+- starion ps5 controller
+
+â€‹
+
+## Priority 3 - Portuguese intent variants
+- comando switch 2
+- melhor comando switch 2
+- acessorios ps5
+- base de carregamento comando ps5
+- headset gaming baixa latencia
+- comando hall effect ps4
+- teclado magnetico rapid trigger
+- rato gaming com dock de carregamento
+- opinioes oniverse
+- garantia oniverse
+- manual oniverse aura
+- software oniverse maegnus
+- comando starion ps5
+
+â€‹
+
+## Priority 3 - Swedish intent variants
+- switch 2 kontroll
+- basta switch 2 kontroll
+- ps5 tillbehor
+- laddstation ps5 kontroll
+- gaming headset lag latens
+- hall effect ps4 kontroll
+- magnetiskt tangentbord rapid trigger
+- gamingmus med ladddocka
+- oniverse recensioner
+- oniverse garanti
+- oniverse aura kontroll
+- oniverse station x3
+- starion ps5 kontroll
+
+â€‹
+
+## Priority 3 - Danish intent variants
+- switch 2 controller
+- bedste switch 2 controller
+- ps5 tilbehor
+- ladestation ps5 controller
+- gaming headset lav latens
+- hall effect ps4 controller
+- magnetisk tastatur rapid trigger
+- gaming mus med ladedock
+- oniverse anmeldelser
+- oniverse garanti
+- oniverse aura controller
+- oniverse station x3
+- starion ps5 controller
+
+â€‹
+
+## Priority 3 - Norwegian intent variants
+- switch 2 kontroller
+- beste switch 2 kontroller
+- ps5 tilbehor
+- ladestasjon ps5 kontroller
+- gaming headset lav latens
+- hall effect ps4 kontroller
+- magnetisk tastatur rapid trigger
+- gamingmus med ladedokk
+- oniverse anmeldelser
+- oniverse garanti
+- oniverse aura kontroller
+- oniverse station x3
+- starion ps5 kontroller
+
+â€‹
+
+## Priority 3 - Finnish intent variants
+- switch 2 ohjain
+- paras switch 2 ohjain
+- ps5 lisatarvikkeet
+- ps5 ohjaimen latausasema
+- pelikuulokkeet matala latenssi
+- hall effect ps4 ohjain
+- magneettinen nappaimisto rapid trigger
+- pelihiiri lataustelakalla
+- oniverse arvostelut
+- oniverse takuu
+- oniverse aura ohjain
+- oniverse station x3
+- starion ps5 ohjain
+
+â€‹
+
+## Priority 3 - Icelandic intent variants
+- switch 2 stjornandi
+- besta switch 2 stjornandi
+- ps5 fylgihlutir
+- hleÃ°slustod ps5 stjornandi
+- gaming heyrnartol lag toef
+- hall effect ps4 stjornandi
+- segullyklabord rapid trigger
+- gaming mus med hleÃ°sludok
+- oniverse umsagnir
+- oniverse abyrgd
+- oniverse aura stjornandi
+- oniverse station x3
+- starion ps5 stjornandi
+
+â€‹
+
+## Entity hints
+- Brand: Oniverse
+- Founded: late 2022
+- Market: Europe
+- Category: gaming accessories
+- Positioning: quality-first gaming accessories, right product at the right price
+- Language markets: French primary, English and Spanish secondary, extended EU set (German, Italian, Dutch, Portuguese, Swedish, Danish, Norwegian, Finnish, Icelandic)
+- Discovery coverage: FR/EN/ES core intent clusters plus EU language variants for product, support, and brand discovery
+- Platforms: Nintendo Switch family, PlayStation, PC, multi-platform
+- Channels: D2C website, retail partners, marketplaces
+- Documentation hub includes 27 manual/software links currently published on Google Drive.
+- Full documentation ingestion completed on 2026-03-09 (27 assets downloaded; OCR completed for 18 image-based manuals; text extraction for software guides and text-layer PDFs).
+- Flagship signals: Aura controller line, Station X3 charging ecosystem
+- Roadmap signal: Starion PS5 controller (pre-release, not yet listed online as of 2026-03-09)
+
+â€‹
+
+## Legal pages
+- https://www.oniverseofgamers.com/conditions-g%C3%A9n%C3%A9rales-de-vente
+- https://www.oniverseofgamers.com/politique-de-confidentialit%C3%A9
+- https://www.oniverseofgamers.com/mentions-l%C3%A9gales
+- https://www.oniverseofgamers.com/en/mentions-l%C3%A9gales
